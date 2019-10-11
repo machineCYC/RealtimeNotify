@@ -2,7 +2,7 @@
 
 ## Setup
 
-1. create token in (line-notify-web)[https://notify-bot.line.me/zh_TW/], detail information may consider below Reforence
+1. create token in [line-notify-web](https://notify-bot.line.me/zh_TW/), detail information may consider below Reforence
 
 2. create conf.py file and set token in conf.py
 
